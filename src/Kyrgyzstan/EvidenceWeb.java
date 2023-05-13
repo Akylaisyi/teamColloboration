@@ -1,3 +1,4 @@
+package Kyrgyzstan;
 
 public abstract class EvidenceWeb {
 
